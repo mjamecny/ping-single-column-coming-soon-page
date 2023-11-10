@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ping-coming-soon-page-with-react-9V2a2Tpulq)
 - Live Site URL: [Netlify](https://fm-challenge-ping-coming-soon-page.netlify.app)
 
 ## My process
